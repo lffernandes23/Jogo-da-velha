@@ -1,6 +1,6 @@
 # Jogo da velha com REACT JS
 
-<h1>Este projeto foi criado com introdução ao REACT JS</h1>
+<h3>Este projeto foi criado com introdução ao REACT JS</h3>
 
 <h4>Funcionalidades</h4>
 
